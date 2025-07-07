@@ -72,6 +72,14 @@ These are automatically installed via the `requirements.txt`.
 
 ---
 
+## 🖼️ Screenshots
+
+Here’s what the UI looks like:
+
+![Game UI](static/demo.png)
+
+---
+
 ## 💬 Notes
 
 - Uses real-time data from `omgvamp-hearthstone-v1` API (via RapidAPI)
@@ -79,8 +87,13 @@ These are automatically installed via the `requirements.txt`.
 
 ---
 
+## 📄 License
 
-## Credits
+This project is licensed under the **GPL-3.0 License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👥 Credits
 
 Made by Urevich Larry and Oran S.Cohen
 
